@@ -1,5 +1,7 @@
 # MusicWaveform.JS
-A 100% pur JS way to catch frequencies and display a track's waveform using an offline audio context
+A 100% pur JS way to catch frequencies and display a track's waveform using an offline audio context.
+
+The waveform should be generated within 10 seconds once the upload is done.
 
 # Method
 
